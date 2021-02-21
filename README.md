@@ -17,7 +17,7 @@
 A simple Employee Directory app to search and display a list of employees.
 
 - See the project repository: https://github.com/ASwartz14/EmployeeDirectory on GitHub.
-- See deployed app at:
+- See deployed app at: https://aswartz14.github.io/EmployeeDirectory/
 
 ## Visuals
 
