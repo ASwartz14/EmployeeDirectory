@@ -20,7 +20,7 @@ A simple Employee Directory app to search and display a list of employees.
 - See deployed app at: https://aswartz14.github.io/EmployeeDirectory/
 
 ## Visuals
-![Screenshot (90)](https://user-images.githubusercontent.com/66501008/108611888-eee25b80-7397-11eb-802b-7c6016654641.png)
+![Screenshot (92)](https://user-images.githubusercontent.com/66501008/108611908-2e10ac80-7398-11eb-8361-dee0fd84f030.png)
 ## Installation
 
 No installation required just visit the website. Otherwise fork the repo and use node package manager to run npm i, then npm start and open your browser to localhost:3000.
